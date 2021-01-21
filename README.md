@@ -2,3 +2,5 @@
 
 ### Part of `Computer Science Selected Topics Seminar` @ Ariel University
 #### [Link to presentation](/presentation.pptx)
+
+![](image.png)
